@@ -5,6 +5,4 @@ scikit-learn
 nltk
 matplotlib
 seaborn
-beautifulsoup4
-langdetect
-praw
+plotly
