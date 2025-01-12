@@ -1,6 +1,6 @@
 # 📊 Prédiction d'émojis par embedding de posts sur des réseaux sociaux
 
-Ce projet porte sur la prédiction d'émojis associés à des posts sur des réseaux sociaux (Twitter, Reddit) en utilisant des embeddings produits par le modèle [Word2Vec](https://arxiv.org/abs/1301.3781). 
+Ce projet porte sur la prédiction d'émojis associés à des posts sur des réseaux sociaux (Twitter, Reddit) en utilisant des embeddings produits par le modèle [Word2vec](https://arxiv.org/abs/1301.3781). 
 
 ## 🗂️ Structure du Projet
 
@@ -37,7 +37,7 @@ Assurez-vous que les outils suivants sont installés sur votre machine :
 
    ```bash
    git clone <url-du-depot>
-   cd emoji-prediction
+   cd Emoji-Prediction
    ```
 
 2. Créez et activez un environnement virtuel :
